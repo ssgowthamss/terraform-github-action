@@ -30,7 +30,7 @@ resource "azurerm_resource_group" "rg" {
   location = "West Europe"
   }
 
-  resource "azurerm_resource_group" "rg" {
+  resource "azurerm_resource_group" "reg" {
   name     = "demo1-rg"
   location = "West Europe"
   }
